@@ -16,8 +16,8 @@ export default function Home() {
           </div>
 
           <Image 
-            src="/assets/images/hero.svg" width={1000} height={1000} 
-            alt='Evently logo'
+            src="/assets/images/hero.png" width={1000} height={1000} 
+            alt='hero'
             className='max-h-[70vh] object-contain object-center 2xl:max-h-[50vh]'
           />
         </div>
